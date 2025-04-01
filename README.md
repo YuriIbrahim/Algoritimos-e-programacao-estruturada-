@@ -30,7 +30,6 @@ O objetivo do jogo é acumular 12 pontos. Cada rodada tem um valor de pontos (1,
 
 ## Compilação e Execução
 
-### Para compilar o código:
-
-```bash
-gcc -o jogo_cartas jogo_cartas.c
+### **Executar online**  
+Você pode compilar e rodar o código diretamente no OnlineGDB:  
+🔗 [Clique aqui para acessar o compilador C online](https://www.onlinegdb.com/online_c_compiler)  
